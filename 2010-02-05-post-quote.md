@@ -1,5 +1,5 @@
 ---
-title: "Post: Quote"
+title: "Relay Chain: Quote"
 date: 2019-11-24T15:34:30-04:00
 last_modified_at: 2020-09-25T15:34:30-04:00
 categories:
@@ -7,6 +7,9 @@ categories:
 tags:
   - subsocial
   - polkadot
+sidebar:
+  nav: "posts"
+  nav: "projects"
 ---
 
 > Only one thing is impossible for God: To find any sense in any copyright law on the planet.

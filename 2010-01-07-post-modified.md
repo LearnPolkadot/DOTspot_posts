@@ -7,6 +7,9 @@ categories:
 tags:
   - substrate
   - polkadot
+sidebar:
+  nav: "posts"
+  nav: "projects"
 ---
 
 A token minting system is coming to the Polkadot blockchain ecosystem, promising to be a leaner, meaner version of Ethereum’s ERC-20 standard, the mechanism that launched a thousand token sales.

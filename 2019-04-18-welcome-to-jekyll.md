@@ -7,6 +7,7 @@ tags:
   - defi
   - polkadot
 sidebar:
+  nav: "posts"
   nav: "projects"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Post: Notice"
+title: "Web 3: Notice"
 date: 2020-07-24T15:34:30-04:00
 last_modified_at: 2020-09-25T15:34:30-04:00
 categories:
@@ -7,6 +7,9 @@ categories:
 tags:
   - kusama
   - polkadot
+sidebar:
+  nav: "posts"
+  nav: "projects"
 ---
 
 A notice displays information that explains nearby content. Often used to call attention to a particular detail.
