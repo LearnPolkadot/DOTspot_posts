@@ -8,7 +8,6 @@ tags:
   - polkadot
 sidebar:
   nav: "posts"
-  nav: "projects"
 ---
 
 # This Week in Polkadot
