@@ -2,7 +2,9 @@
 title: "Polkadot Projects Will Be Able to Mint Their Own Tokens in 2021"
 date: 2020-09-24T15:34:30-04:00
 last_modified_at: 2020-09-25T15:34:30-04:00
-proj: 0
+proj: 
+  - 0
+  - 1
 # Use one o th dfadf,adfdf, adfdsf, adfdf
 categories: # Categories are: 
   - polkadot
