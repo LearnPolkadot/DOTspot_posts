@@ -14,7 +14,7 @@ sidebar:
 
 ## Polkadot's treasury is beginning to disburse money to developers as the battle for smart contract supremacy heats up.
 
-The Web3 Foundation, Polkadot’s equivalent of the Ethereum Foundation, announced a wave of funding for projects creating infrastructure and development tools for the ecosystem. With this move, Polkadot is ensuring future developers and users have a better experience building on the protocol.
+The Web3 Foundation, Polkadot’s equivalent of the Ethereum Foundation, announced a wave of funding for projects creating infrastructure and development tools for the ecosystem. With this move, Polkadot is ensuring future developers and users have a better experience building on the protocol. 
 
 <img src="https://cryptoslate.com/wp-content/uploads/2020/08/polkadot-1024x538.jpg" alt="Polkadot" style="zoom: 50%;" />
 
