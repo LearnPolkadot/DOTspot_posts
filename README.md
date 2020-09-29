@@ -2,7 +2,7 @@
 
 DOTspot is community driven project that aims to give an open place for ecosystem projects to share their latest news. Contributions are from the ecosystem and for the community,
 
-**<a href="https://www.dotspot.io" target="_blank">Da DOTspot (dotspot.io)</a>**
+**<a href="https://www.dotspot.io" target="_blank">DOTspot** (dotspot.io)</a>
 
 ---
 
