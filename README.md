@@ -16,6 +16,6 @@ DOTspot is community driven project that aims to give an open place for ecosyste
 
 👷 **Contributing**
 
-Project updates, articles, or other contributions from the community are encouraged! You can not post about projects but community members are open to write about the lastest trends in the space. More information is coming soon.
+Project updates, articles, or other contributions from the community are encouraged! Not only can projects post about lastest updates but Polkadot community members, apprentices, and ambassadors are welcome to write updates about the lastest trends in the space. More information is coming soon on how to contribute.
 
-_Note: You will need a GitHub account to contribute to posts. If you do not have a GitHub account, you may [sign up for one for free](https://github.com/join)._
+_Note: You will need a GitHub account to contribute to posts(articles/news). If you do not have a GitHub account, you may [sign up for one for free](https://github.com/join)._
