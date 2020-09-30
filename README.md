@@ -18,4 +18,4 @@ DOTspot is community driven project that aims to give an open place for ecosyste
 
 Project updates, articles, or other contributions from the community are encouraged! You can not post about projects but community members are open to write about the lastest trends in the space. More information is coming soon.
 
-Note: You will need a GitHub account to contribute to posts. If you do not have a GitHub account, you may sign up for one for free.
+_Note: You will need a GitHub account to contribute to posts. If you do not have a GitHub account, you may [sign up for one for free](https://github.com/join)._
