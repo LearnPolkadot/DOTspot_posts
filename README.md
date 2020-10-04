@@ -1,8 +1,8 @@
 ![](https://www.dotspot.io/assets/images/dotspot_learnlogo3.png)
 
-Da DOTspot is community driven project that aims to give an open place for ecosystem projects to share their latest news. Contributions are from the ecosystem and for the community,
+DOTspot is community driven project that aims to give an open place for ecosystem projects to share their latest news. Contributions are from the ecosystem and for the community,
 
-**<a href="https://www.dotspot.io" target="_blank">Da DOTspot (dotspot.io)</a>**
+**<a href="https://www.dotspot.io" target="_blank">DOTspot** (dotspot.io)</a>
 
 ---
 
@@ -11,3 +11,11 @@ Da DOTspot is community driven project that aims to give an open place for ecosy
 - <a href="https://www.dotspot.io/web3grants/" target="_blank">Web3 Foundation Grant Receipts</a>
 
 - <a href="https://share.hsforms.com/1LtBuOi1bSs-p8XGXC_hoyw4752a" target="_blank">Sign up to join the Ambassador Program</a>
+
+---
+
+👷 **Contributing**
+
+Project updates, articles, or other contributions from the community are encouraged! Not only can projects post about lastest updates but Polkadot community members, apprentices, and ambassadors are welcome to write updates about the lastest trends in the space. More information is coming soon on how to contribute.
+
+_Note: You will need a GitHub account to contribute to posts(articles/news). If you do not have a GitHub account, you may [sign up for one for free](https://github.com/join)._
