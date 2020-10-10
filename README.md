@@ -32,8 +32,8 @@ _Note: You will need a GitHub account to contribute to posts(articles/news). If 
 
 2. Browse to the folder where you want your article to appear.  *Example*:
 
-   - if writing about a project select the <a href="https://github.com/LearnPolkadot/DOTspot_posts/blob/master/projects" target="_blank">project folder</a> _(CTRL+click on Windows and Linux or CMD+click on MacOS)_ then the appropriate project
-   - if writing a general article about Polkadot, Kusama, or Substrate select the <a href="https://github.com/LearnPolkadot/DOTspot_posts/blob/master/general" target="_blank">general folder</a>_(CTRL+click on Windows and Linux or CMD+click on MacOS)_
+   - if writing about a project select the _(CTRL+click on Windows and Linux or CMD+click on MacOS)_ <a href="https://github.com/LearnPolkadot/DOTspot_posts/blob/master/projects" target="_blank">project folder</a> then the appropriate project
+   - if writing a general article about Polkadot, Kusama, or Substrate select the _(CTRL+click on Windows and Linux or CMD+click on MacOS)_ <a href="https://github.com/LearnPolkadot/DOTspot_posts/blob/master/general" target="_blank">general folder</a>
 
 3. Select Add file > Create new file
 
@@ -87,8 +87,8 @@ sidebar:
 7. Now your ready to write your article starting anywhere after line 21---.  
 
    - Articles use the markdown language format. 
-   - A markdown language cheat sheet can be [found here](https://www.markdownguide.org/cheat-sheet/)_(CTRL+click on Windows and Linux or CMD+click on MacOS)_.  
-	- If your have a favorite [Markdown file editor](https://typora.io/) _(CTRL+click on Windows and Linux or CMD+click on MacOS)_ you can create your article and past the code after line 21 ---
+   - A markdown language cheat sheet can be _(CTRL+click on Windows and Linux or CMD+click on MacOS)_ [found here](https://www.markdownguide.org/cheat-sheet/).  
+	- If your have a favorite _(CTRL+click on Windows and Linux or CMD+click on MacOS)_ [Markdown file editor](https://typora.io/) you can create your article and past the code after line 21 ---
 8. Once you are ready to submit your article we will PULL the article back to the main Learn Polkadot Posts repo. 
    - Scroll to the bottom of the GitHub page your creating your new file and click Propose new file
    - Feel free to add any description you see fit... ie: article is being crated in the Acala folder but should show up under Acala, Bitfrost, and Chainlink
