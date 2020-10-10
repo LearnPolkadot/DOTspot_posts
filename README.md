@@ -92,8 +92,9 @@ sidebar:
    - A markdown language cheat sheet can be [found here](https://www.markdownguide.org/cheat-sheet/).  
    - If your have a favorite [Markdown file editor](https://typora.io/) you can create your article and past the code after line 21 ---
 
-7. Once you are ready to submit your article we will PULL the article back to the main Learn Polkadot Posts repo. Scroll to the bottom of the GitHub page your creating your new file and click Propose new file
+7. Once you are ready to submit your article we will PULL the article back to the main Learn Polkadot Posts repo. 
 
+   - Scroll to the bottom of the GitHub page your creating your new file and click Propose new file
    - Feel free to add any description you see fit... ie: article is being crated in the Acala folder but should show up under Acala, Bitfrost, and Chainlink
 
 7. That's it! You have just submitted your article for listing on the DOTspot.  Articles are reviewed and once approved you will receive a GitHub notification that your articles has been merged to the master branch and will be displayed on the site.
