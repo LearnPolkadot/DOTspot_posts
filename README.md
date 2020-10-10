@@ -20,34 +20,32 @@ Project updates, articles, or other contributions come from the community. Not o
 
 ### Project listing information:
 
-- [Submit a Project](https://www.dotspot.io/listing/submit/)
-- [Update a Project](https://www.dotspot.io/listing/update/)
-- [Remove a Project](https://www.dotspot.io/listing/remove/)
+- <a href="https://www.dotspot.io/listing/submit/" target="_blank">Submit a Project</a>
+- <a href="https://www.dotspot.io/listing/update/" target="_blank">Update a Project</a>
+- <a href="https://www.dotspot.io/listing/remove/" target="_blank">Remove a Project</a>
 
 ### Publish a Article 
 
-_Note: You will need a GitHub account to contribute to posts(articles/news). If you do not have a GitHub account, you may [sign up for one for free](https://github.com/join)._
+_Note: You will need a GitHub account to contribute to posts(articles/news). If you do not have a GitHub account, you may <a href="https://github.com/join" target="_blank">sign up for one for free</a>._
 
 1. Sign in to your GitHub account
 
-2. Go to https://github.com/LearnPolkadot/DOTspot_posts
+2. Browse to the folder where you want your article to appear.  *Example*:
 
-3. Browse to the folder where you want your article to appear.  *Example*:
+   - if writing about a project select the <a href="https://github.com/LearnPolkadot/DOTspot_posts/blob/master/projects" target="_blank">project folder</a> then the appropriate project
+   - if writing a general article about Polkadot, Kusama, or Substrate select the <a href="https://github.com/LearnPolkadot/DOTspot_posts/blob/master/general" target="_blank">general folder</a>
 
-   - if writing about a project select the [project folder](/projects) then the appropriate project
-   - if writing a general article about Polkadot, Kusama, or Substrate select the [general folder](/general)
-
-4. Select Add file > Create new file
+3. Select Add file > Create new file
 
    - this will FORK the repo to your current github account
 
-5. Name your file in the following format *FORMAT IS IMPORTANT*
+4. Name your file in the following format *FORMAT IS IMPORTANT*
 
    - YYYY-MM-DD-articletitle.md
 
      **replace articletitle with the name of your article with NO spaces*
 
-6. Paste the following code below in the Edit new file window
+5. Paste the following code below in the Edit new file window
 
 ```
 ---
@@ -73,7 +71,7 @@ sidebar:
 ---
 ```
 
-7. Edit the following FOUR lines in the code you just pasted.  Adjust the values to fit your article.  *Example*:
+6. Edit the following FOUR lines in the code you just pasted.  Adjust the values to fit your article.  *Example*:
    - title: "Polkadot is run on DOTs" <br />
      **leave the title wrapped in quotes*
      
@@ -89,12 +87,13 @@ sidebar:
 7. Now your ready to write your article starting anywhere after line 21---.  
 
    - Articles use the markdown language format. 
-   - A markdown language cheat sheet can be [found here](https://www.markdownguide.org/cheat-sheet/).  
-   - If your have a favorite [Markdown file editor](https://typora.io/) you can create your article and past the code after line 21 ---
-
-7. Once you are ready to submit your article we will PULL the article back to the main Learn Polkadot Posts repo. 
-
+   - A markdown language cheat sheet can be general <a href="https://www.markdownguide.org/cheat-sheet/" target="_blank">found here</a>.
+   - If your have a favorite <a href="https://typora.io/" target="_blank">Markdown file editor</a> you can create your article and past the code after line 21 ---
+8. Once you are ready to submit your article we will PULL the article back to the main Learn Polkadot Posts repo. 
    - Scroll to the bottom of the GitHub page your creating your new file and click Propose new file
    - Feel free to add any description you see fit... ie: article is being crated in the Acala folder but should show up under Acala, Bitfrost, and Chainlink
-
-7. That's it! You have just submitted your article for listing on the DOTspot.  Articles are reviewed and once approved you will receive a GitHub notification that your articles has been merged to the master branch and will be displayed on the site.
+9. Click - Create pull request
+   - This will take you to a Open a pull request page. 
+   - Leave Allow edits by maintainers checked
+   - Click - Create pull request again to submit your article
+10. That's it! You have just submitted your article for listing on the DOTspot.  Articles are reviewed and once approved you will receive a GitHub notification that your articles has been merged to the master branch and will be displayed on the site.
