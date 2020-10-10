@@ -78,15 +78,13 @@ sidebar:
      ** leave the title wrapped in quotes*
      
    - date: 2020-11-23
-     **no quotes - publish date of the article YYYY-MM-DD*
+     ** no quotes - publish date of the article YYYY-MM-DD*
      
    - last_modified_at: 2020-11-23
-
-     **no quotes - this will be the same as date if your creating a article*
+     ** no quotes - this will be the same as date if your creating a article*
 
    - author: DOT spot
-
-     **no quotes*
+     ** no quotes*
 
 7. Now your ready to write your article starting anywhere after line 21---.  
 
