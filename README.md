@@ -74,17 +74,17 @@ sidebar:
 ```
 
 7. Edit the following FOUR lines in the code you just pasted.  Adjust the values to fit your article.  *Example*:
-   - title: "Polkadot is run on DOTs" 
-     ** leave the title wrapped in quotes*
+   - title: "Polkadot is run on DOTs" <br />
+     **leave the title wrapped in quotes*
      
-   - date: 2020-11-23
-     ** no quotes - publish date of the article YYYY-MM-DD*
+   - date: 2020-11-23 <br />
+     **no quotes - publish date of the article YYYY-MM-DD*
      
-   - last_modified_at: 2020-11-23
-     ** no quotes - this will be the same as date if your creating a article*
+   - last_modified_at: 2020-11-23 <br />
+     **no quotes - this will be the same as date if your creating a article*
 
-   - author: DOT spot
-     ** no quotes*
+   - author: DOT spot <br />
+     **no quotes*
 
 7. Now your ready to write your article starting anywhere after line 21---.  
 
