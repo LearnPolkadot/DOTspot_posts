@@ -10,11 +10,11 @@ last_modified_at: 2020-09-03
 
 # DO NOT BELOW THIS LINE
 proj: 
-  - [0]
+  - [1]
 categories:
   - [applications]
 tags:
-  - [build, web3, polkadot]
+  - [kusama, web3]
 sidebar:
   nav: "posts"
 # DO NOT CHANGE ABOVE THIS LINE
