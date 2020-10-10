@@ -87,8 +87,8 @@ sidebar:
 7. Now your ready to write your article starting anywhere after line 21---.  
 
    - Articles use the markdown language format. 
-   - A markdown language cheat sheet can be general <a href="https://www.markdownguide.org/cheat-sheet/" target="_blank">found here</a>.
-   - If your have a favorite <a href="https://typora.io/" target="_blank">Markdown file editor</a> you can create your article and past the code after line 21 ---
+   - A markdown language cheat sheet can be [found here](https://www.markdownguide.org/cheat-sheet/){target="_blank"}.  
+	- If your have a favorite [Markdown file editor](https://typora.io/){:target="_blank"} you can create your article and past the code after line 21 ---
 8. Once you are ready to submit your article we will PULL the article back to the main Learn Polkadot Posts repo. 
    - Scroll to the bottom of the GitHub page your creating your new file and click Propose new file
    - Feel free to add any description you see fit... ie: article is being crated in the Acala folder but should show up under Acala, Bitfrost, and Chainlink
