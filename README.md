@@ -89,8 +89,8 @@ sidebar:
 7. Now your ready to write your article starting anywhere after line 21---.  
 
    - Articles use the markdown language format. 
-   - A markdown language cheat sheet can be referenced here.  
-   - If your have a favorite Markdown file editor you can create your article and past the code after line 21 ---
+   - A markdown language cheat sheet can be [found here](https://www.markdownguide.org/cheat-sheet/).  
+   - If your have a favorite [Markdown file editor](https://typora.io/) you can create your article and past the code after line 21 ---
 
 7. Once you are ready to submit your article we will PULL the article back to the main Learn Polkadot Posts repo. Scroll to the bottom of the GitHub page your creating your new file and click Propose new file
 
