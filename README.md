@@ -97,3 +97,5 @@ sidebar:
    - Leave Allow edits by maintainers checked
    - Click - Create pull request again to submit your article
 10. That's it! You have just submitted your article for listing on the DOTspot.  Articles are reviewed and once approved you will receive a GitHub notification that your articles has been merged to the master branch and will be displayed on the site.
+
+<a href="test.html" onclick="return ! window.open(this.href);">Open in a new window</a>
