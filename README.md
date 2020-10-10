@@ -32,8 +32,8 @@ _Note: You will need a GitHub account to contribute to posts(articles/news). If 
 
 2. Browse to the folder where you want your article to appear.  *Example*:
 
-   - if writing about a project select the <a href="https://github.com/LearnPolkadot/DOTspot_posts/blob/master/projects" target="_blank">project folder</a> then the appropriate project
-   - if writing a general article about Polkadot, Kusama, or Substrate select the <a href="https://github.com/LearnPolkadot/DOTspot_posts/blob/master/general" target="_blank">general folder</a>
+   - if writing about a project select the <a href="https://github.com/LearnPolkadot/DOTspot_posts/blob/master/projects" target="_blank">project folder</a> _(CTRL+click on Windows and Linux or CMD+click on MacOS)_ then the appropriate project
+   - if writing a general article about Polkadot, Kusama, or Substrate select the <a href="https://github.com/LearnPolkadot/DOTspot_posts/blob/master/general" target="_blank">general folder</a>_(CTRL+click on Windows and Linux or CMD+click on MacOS)_
 
 3. Select Add file > Create new file
 
@@ -87,8 +87,8 @@ sidebar:
 7. Now your ready to write your article starting anywhere after line 21---.  
 
    - Articles use the markdown language format. 
-   - A markdown language cheat sheet can be [found here](https://www.markdownguide.org/cheat-sheet/){target="_blank"}.  
-	- If your have a favorite [Markdown file editor](https://typora.io/){:target="_blank"} you can create your article and past the code after line 21 ---
+   - A markdown language cheat sheet can be [found here](https://www.markdownguide.org/cheat-sheet/)_(CTRL+click on Windows and Linux or CMD+click on MacOS)_.  
+	- If your have a favorite [Markdown file editor](https://typora.io/) _(CTRL+click on Windows and Linux or CMD+click on MacOS)_ you can create your article and past the code after line 21 ---
 8. Once you are ready to submit your article we will PULL the article back to the main Learn Polkadot Posts repo. 
    - Scroll to the bottom of the GitHub page your creating your new file and click Propose new file
    - Feel free to add any description you see fit... ie: article is being crated in the Acala folder but should show up under Acala, Bitfrost, and Chainlink
@@ -97,5 +97,3 @@ sidebar:
    - Leave Allow edits by maintainers checked
    - Click - Create pull request again to submit your article
 10. That's it! You have just submitted your article for listing on the DOTspot.  Articles are reviewed and once approved you will receive a GitHub notification that your articles has been merged to the master branch and will be displayed on the site.
-
-<a href="test.html" onclick="return ! window.open(this.href);">Open in a new window</a>
