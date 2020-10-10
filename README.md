@@ -34,8 +34,8 @@ _Note: You will need a GitHub account to contribute to posts(articles/news). If 
 
 3. Browse to the folder where you want your article to appear.  *Example*:
 
-   - if writing about a project select the project folder then the appropriate project
-   - if writing a general article about Polkadot, Kusama, or Substrate select the general folder
+   - if writing about a project select the [project folder](/projects) then the appropriate project
+   - if writing a general article about Polkadot, Kusama, or Substrate select the [general folder](/general)
 
 4. Select Add file > Create new file
 
