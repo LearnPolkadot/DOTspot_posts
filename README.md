@@ -32,16 +32,17 @@ _It is helpful to open links mentioned below in a New Window so you can have the
 
 1. Sign in to your GitHub account
 
-2. Browse to the folder where you want your article to appear.  *Example*:
+2. Browse to the folder in the repo where you want your article to appear.  
+*Example*:
 
-   - if writing about a project select the <a href="https://github.com/LearnPolkadot/DOTspot_posts/blob/master/projects" target="_blank">project folder</a> then the appropriate project
-   - if writing a general article about Polkadot, Kusama, or Substrate select the <a href="https://github.com/LearnPolkadot/DOTspot_posts/blob/master/general" target="_blank">general folder</a>
+   - if writing about a project select the <a href="https://github.com/LearnPolkadot/DOTspot_posts/blob/master/projects" target="_blank">project folder</a> then the appropriate project folder
+   - if writing a general article NOT specfic to a project select the <a href="https://github.com/LearnPolkadot/DOTspot_posts/blob/master/general" target="_blank">general folder</a>
 
-3. Select Add file > Create new file
+3. Select Add file > *Create new file*
 
-   - this will FORK the repo to your current github account
+   - this will FORK the LearnPolkadot/DOTspot_posts repo to your current github account
 
-4. Name your file in the following format *FORMAT IS IMPORTANT*
+4. Name your file in the following format (*THE **FOLLOWING FORMAT** IS IMPORTANT FOR YOUR ARTICLE TO APPEAR PROPERLY ON THE SITE*
 
    - YYYY-MM-DD-articletitle.md
 
@@ -49,7 +50,7 @@ _It is helpful to open links mentioned below in a New Window so you can have the
 
 5. Paste the following code below in the Edit new file window
 
-```
+```markdown
 ---
 title: "This is a title"
 # ^^^Enter the TITLE for your POST 
@@ -74,29 +75,30 @@ sidebar:
 ```
 
 6. Edit the following FOUR lines in the code you just pasted.  Adjust the values to fit your article.  *Example*:
-   - title: "Polkadot is run on DOTs" <br />
+   - **title**: "Polkadot is run on DOTs" <br />
      **leave the title wrapped in quotes*
      
-   - date: 2020-11-23 <br />
+   - **date**: 2020-11-23 <br />
      **no quotes - publish date of the article YYYY-MM-DD*
      
-   - last_modified_at: 2020-11-23 <br />
+   - **last_modified_at**: 2020-11-23 <br />
      **no quotes - this will be the same as date if your creating a article*
 
-   - author: DOT spot <br />
+   - **author**: DOT spot <br />
      **no quotes*
 
-7. Now your ready to write your article starting anywhere after line 21---.  
+7. Now your ready to write your article. You can compose your article starting anywhere after line ```21 ---```.  
 
    - Articles use the markdown language format. 
+   - A tutorial on markdown can be found here [MAC](https://www.youtube.com/watch?v=eJojC3lSkwg) or [Windows](https://www.youtube.com/watch?v=Yq6u6Z1yuco)
    - A markdown language cheat sheet can be [found here](https://www.markdownguide.org/cheat-sheet/).  
-   - If your have a favorite [Markdown file editor](https://typora.io/) you can create your article and past the code after line 21 ---
-8. Once you are ready to submit your article we will PULL the article back to the main Learn Polkadot Posts repo. 
-   - Scroll to the bottom of the GitHub page your creating your new file and click Propose new file
-   - Feel free to add any description you see fit... ie: article is being crated in the Acala folder but should show up under Acala, Bitfrost, and Chainlink
-9. Click - Create pull request
-   - This will take you to a Open a pull request page. 
-   - Leave Allow edits by maintainers checked
-   - Click - Create pull request again to submit your article
+   - Markdown editors sucah as this [Markdown file editor](https://typora.io/) can be used to create your article and then past the markdown code after line 21 ---
+8. Once you are ready to submit your article you will PULL the article back to the main Learn Polkadot Posts repo. 
+   - Scroll to the bottom of the GitHub page your creating your new file and click *Propose new file*
+   - Feel free to add any description you see fit... ie: article is being crrated in the Acala folder but should show up under Acala, Bitfrost, and Chainlink
+9. Click - *Create pull request*
+   - This will take you to a Open a pull request page.
+   - Leave *Allow* edits by maintainers checked
+   - Click - *Create pull request* again to submit your article
    - You should have received an email from Github stating you just pushed a commit
-10. That's it! You have just submitted your article for listing on the DOTspot.  Please allow 24-72hrs for your article to be reviewed.  Once your article has been approved you will receive a GitHub notification that your articles has been merged to the master branch which will allow your article to be displayed on the DOTspot site.
+10. That's it! You have just submitted your article for listing on the DOTspot.  Please allow 24-72hrs for your article to be reviewed.  Once your article has been approved you will receive a GitHub notification that your article has been merged into the master branch which will allow your article to be displayed on the DOTspot site.
