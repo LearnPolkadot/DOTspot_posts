@@ -10,11 +10,11 @@ author: Junte
 #
 # DO NOT BELOW THIS LINE
 proj: 
-  - 1
+  - 96
 categories:
   - applications
 tags:
-  - kusama
+  - PoW
 sidebar:
   nav: "posts"
 # DO NOT CHANGE ABOVE THIS LINE
