@@ -19,8 +19,6 @@ sidebar:
   nav: "posts"
 # DO NOT CHANGE ABOVE THIS LINE
 ---
-## **Short Recapture**
-
 The last three months I have been following the Kulupu Discord and Telegram chat quite closely. I also participated in governance via voting on different referenda. Here's a short recap about the things that happened and why.
 
 Kulupu as a Proof of Work Blockchain faces some unique challenges that other Substrate based chains don't face. A lot of these have to do with the different type of system that PoW is as opposed to Proof of Stake. The community differs too and is made up of three actors, namely in order of magnitude: investors; miners and finally the developer. Kulupu is a side-project of Wei Tang and he mainly, with the help of Shawn Tabrizi, does all the dev work.
