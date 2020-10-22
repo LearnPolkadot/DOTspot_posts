@@ -10,11 +10,13 @@ author: MHoward (IDEPLO)
 #
 # DO NOT BELOW THIS LINE
 proj: 
-  - 1
+  - 208
+  - 209
+  - 147
 categories:
   - applications
 tags:
-  - kusama
+  - social media
 sidebar:
   nav: "posts"
 # DO NOT CHANGE ABOVE THIS LINE
