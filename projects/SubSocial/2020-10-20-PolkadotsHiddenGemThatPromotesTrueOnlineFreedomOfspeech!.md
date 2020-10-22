@@ -21,8 +21,6 @@ sidebar:
   nav: "posts"
 # DO NOT CHANGE ABOVE THIS LINE
 ---
-# Polkadot's Hidden Gem: True Online Freedom Of Speech!
-
 <img src="https://github.com/ideplo/polkadotspace/blob/master/images/freedom_of_the_press.png?raw=true" alt="Freedom" width="70px" />  Freedom of Speech sounds good, but have we ever witnessed true online freedom of speech before? I mean, something like a blog post, tweet, or some type of audio or visual recording that has true staying power. Staying power in the sense that, a particular piece of content will still exist and stay on the platform instead of being taken down. 
 
 <img src="https://github.com/ideplo/polkadotspace/blob/master/images/Control.jpg?raw=true" alt="Control" width="70px" />  Why does content get taking down anyway? Is it because the platforms' governance body deems that the content does not reflect their perspective or doesn't align with their political stance? But the platform is open, come one come all! Maybe there's no stance initially but certain truths or dislikes tend to birth pressures that exceed the platforms comfortable tolerances. These pressures have powerful influences from sources that unfortunately carry more weight than the touted platform's un-bias posture. True social expression is therefore muzzled by way of influential bias's and in most cases, the content permanently gets removed. I can understand this type of control from corporate or governmental facing platforms and other platforms where the bias is understood. But where are the true censorship-resistant social network platforms?
